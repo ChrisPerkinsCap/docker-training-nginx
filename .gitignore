@@ -3,3 +3,22 @@ packer_cache/
 
 # For built boxes
 *.box
+
+*.egg-info
+*.pyc
+*.swo
+*.swp
+.cache
+.coverage*
+.DS_Store
+.idea
+
+/.tox
+/binaries
+/build
+/compose/GITSHA
+/coverage-html
+/dist
+/docs/_site
+/README.rst
+/*venv
