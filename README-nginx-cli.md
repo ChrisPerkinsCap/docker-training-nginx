@@ -1,7 +1,8 @@
 ### docker-training-nginx
 ### Learning to control Containers
 ### NGINX CLI --- RUN - PORTS - FLAGS ---
-### NGINX docker-compose --- UP - DOWN ---
+### NGINX CLI --- START - STOP - LS ---
+### NGINX CLI --- DETACHED MODE ---
 
 # Docker CLI Reference
 [docker Command Line Interface Documentation](https://docs.docker.com/engine/reference/commandline/cli)
